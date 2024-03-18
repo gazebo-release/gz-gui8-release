@@ -1,3 +1,9 @@
+gz-gui8 (8.1.0-1~jammy) jammy; urgency=medium
+
+  * gz-gui8 8.1.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 18 Mar 2024 18:44:32 -0500
+
 gz-gui8 (8.0.0-1~jammy) jammy; urgency=medium
 
   * gz-gui8 8.0.0-1 release
