@@ -1,3 +1,9 @@
+gz-gui8 (8.2.0-1~noble) noble; urgency=medium
+
+  * gz-gui8 8.2.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 14 Jun 2024 21:56:18 -0500
+
 gz-gui8 (8.1.1-1~noble) noble; urgency=medium
 
   * gz-gui8 8.1.1-1 release
